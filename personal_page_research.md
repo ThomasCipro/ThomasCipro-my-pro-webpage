@@ -1,7 +1,6 @@
 # Analysis of Two Websites as Models
 
 ## [Caamp website](https://caamptheband.com/)
-#  [Caamp website](https://caamptheband.com/)
 
 I really like the aesthetics of this website. Of course, it is not something that is strictly professional, as it is for a band and not a scholar or business person. However, the website clearly brings personality to the forefront of its design. Furthermore, I think the layout is quite user friendly. For instance, look at how the lyrics page is set up. Users can navigate to the desired album on the left side of the page and scroll through the lyrics of each song from said album on the right. Both of these components make the site very easy on the eyes and very fun to browse through. Taken together, they help users develop a personal connection to the site and band, making them more likely to listen to their music or buy their merchandise. 
 
